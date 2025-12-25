@@ -54,4 +54,5 @@
 - Эффективное **обучение моделей на русскоязычных данных** (NER, классификация, summarization)
 - Пишу диплом на тему **применения искусственного интеллект для науки** : автоматизация анализа ионограмм и исследование ионосферы с помощью CV и ML.
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Stefanions&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Stefanions&theme=discord_old_blurple)
+
