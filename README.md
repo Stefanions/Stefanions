@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Привет! Я Степан
 
-<!--
-**Stefanions/Stefanions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="mailto:stiwwin@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://t.me/Stefani25">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
+> **Data Scientist | ML Engineer**  
+> Москва, Россия 🇷🇺
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Я создаю **машинное обучение, которое работает в реальном мире** - от аналитики и прогнозных моделей до интеллектуальных агентов, которые принимают решения. Мои проекты лежат на стыке данных, алгоритмов и бизнес-логики.
+
+Я работаю в найме два года, и активно развиваю свои скилы и знания в области ML. Все мои проекты, напрямую связанны с реальными бизнес задачами.
+
+---
+
+## 🔧 Что я умею
+
+- 🤖 **Машинное обучение**
+  От классических моделей до нейросетей: `scikit-learn`, `PyTorch`, `TensorFlow`, `langchain`, `langgraph`.
+- 📊 **Анализ данных**  
+    Формулирование гипотез на основе бизнес-логики, проектирование планов внедрения, проведение A/B-тестов и валидация метрик ML-моделей.
+- 🧠 **ИИ-агенты**  
+  LLM-архитектуры, RAG.
+- ⚙️ **Инфраструктура**  
+  ML pipelines, векторные БД (`pg vector`, `qdrant`), базовое развёртывание готовых решений (`Docker`).
+- 💻 **Языки**  
+  `Python`, `SQL`.
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="SQL" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+
+</div>
+
+---
+
+## 🚀 Чем увлекаюсь
+
+- Исследование **многомодальных и агентных архитектур**
+- Эффективное **обучение моделей на русскоязычных данных** (NER, классификация, summarization)
+- Пишу диплом на тему **применения искусственного интеллект для науки** : автоматизация анализа ионограмм и исследование ионосферы с помощью CV и ML.
