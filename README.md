@@ -1,4 +1,4 @@
-# 👋 Привет! Я Степан
+Я Степан
 
 <div align="center">
   <a href="mailto:stiwwin@gmail.com">
