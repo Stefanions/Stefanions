@@ -27,7 +27,7 @@
 
 **Авторы:** С.В. Масюченко, А.О. Щирый
 
-[![PDF]([https://img.shields.io/badge/📄_Скачать_PDF-FF6B6B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://ftis-conf.mephi.ru/content/public/uploads/files/tezisy_2026_final.pdf](https://rzk2025.izmiran.ru/wp-content/uploads/2025/12/RZK-2025.pdf))
+[![PDF](https://img.shields.io/badge/📄_Скачать_PDF-FF6B6B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://ftis-conf.mephi.ru/content/public/uploads/files/tezisy_2026_final.pdf)
 [![Конференция](https://img.shields.io/badge/🔗_ФТИС_2026-4ECDC4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://ftis-conf.mephi.ru/)
 
 *Исследование посвящено сравнению архитектур нейронных сетей для сегментации ионограмм и автоматического выделения треков мод.*
@@ -38,15 +38,14 @@
 
 <div align="center">
   
-### 🔬 ИЗМИРАН 2025
+### 🔬 ИЗМИРАН 2025 (РЗК-2025)
 
-**Предварительные результаты применения методов сегментации изображений для выделения треков мод распространения радиосигнала на ионораммах радиозондирования ионосферы**
+**Предварительные результаты применения методов сегментации изображений для выделения треков мод распространения радиосигнала на ионограммах радиозондирования ионосферы**
 
 **Авторы:** С.В. Масюченко, А.О. Щирый
 
-[![PDF]([https://img.shields.io/badge/📄_Скачать_PDF-FF6B6B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://rzk2025.izmiran.ru/wp-content/uploads/2025/12/RZK-2025.pdf))
-[![Конференция](https://rzk2025.izmiran.ru/)
-
+[![PDF](https://img.shields.io/badge/📄_Скачать_PDF-FF6B6B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://rzk2025.izmiran.ru/wp-content/uploads/2025/12/RZK-2025.pdf)
+[![Конференция](https://img.shields.io/badge/🔗_РЗК_2025-4ECDC4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://rzk2025.izmiran.ru/)
 
 *Исследование посвящено предварительным результатам применения нейронных сетей для сегментации ионограмм и автоматического выделения треков мод.*
 
