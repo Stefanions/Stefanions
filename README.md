@@ -27,7 +27,7 @@
 
 **Авторы:** С.В. Масюченко, А.О. Щирый
 
-[![PDF](https://img.shields.io/badge/📄_Скачать_PDF-FF6B6B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://ftis-conf.mephi.ru/content/public/uploads/files/tezisy_2026_final.pdf)
+[![PDF]([https://img.shields.io/badge/📄_Скачать_PDF-FF6B6B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://ftis-conf.mephi.ru/content/public/uploads/files/tezisy_2026_final.pdf](https://rzk2025.izmiran.ru/wp-content/uploads/2025/12/RZK-2025.pdf))
 [![Конференция](https://img.shields.io/badge/🔗_ФТИС_2026-4ECDC4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://ftis-conf.mephi.ru/)
 
 *Исследование посвящено сравнению архитектур нейронных сетей для сегментации ионограмм и автоматического выделения треков мод.*
@@ -44,7 +44,7 @@
 
 **Авторы:** С.В. Масюченко, А.О. Щирый
 
-[![PDF](https://rzk2025.izmiran.ru/wp-content/uploads/2025/12/RZK-2025.pdf)
+[![PDF]([https://img.shields.io/badge/📄_Скачать_PDF-FF6B6B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://rzk2025.izmiran.ru/wp-content/uploads/2025/12/RZK-2025.pdf))
 [![Конференция](https://rzk2025.izmiran.ru/)
 
 
